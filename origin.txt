@@ -1,0 +1,660 @@
+Uri: https://diamondoffshoredrillingplc.com/
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\index.htm
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/images/slider-main/slide_0.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\slider-main\slide_0.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/slider-main/slide_1.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\slider-main\slide_1.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/slider-main/slide_2.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\slider-main\slide_2.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/slider-main/slide_3.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\slider-main\slide_3.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/slider-main/slide_4.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\slider-main\slide_4.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/idl.ico
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\idl.ico
+Content Type: image/x-icon
+
+Uri: https://diamondoffshoredrillingplc.com/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://diamondoffshoredrillingplc.com/css/style.css
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\css\style.css
+Content Type: text/css
+
+Uri: https://diamondoffshoredrillingplc.com/css/responsive.css
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\css\responsive.css
+Content Type: text/css
+
+Uri: https://diamondoffshoredrillingplc.com/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://diamondoffshoredrillingplc.com/css/animate.css
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\css\animate.css
+Content Type: text/css
+
+Uri: https://diamondoffshoredrillingplc.com/css/owl.carousel.min.css
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://diamondoffshoredrillingplc.com/css/owl.theme.default.min.css
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://diamondoffshoredrillingplc.com/css/colorbox.css
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\css\colorbox.css
+Content Type: text/css
+
+Uri: https://diamondoffshoredrillingplc.com/index-2.html
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\index-2.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/contact.html
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\contact.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/fieldwork.html
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\fieldwork.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/laboratory.html
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\laboratory.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/projects.html
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\projects.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/mineral-exploration.html
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\mineral-exploration.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/gallery.html
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\gallery.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/services.html
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\services.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/service-single.html
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\service-single.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/typography.html
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\typography.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/404.html
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\404.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/news-left-sidebar.html
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\news-left-sidebar.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/news-right-sidebar.html
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\news-right-sidebar.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/news-single.html
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\news-single.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p21-3.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p21-3.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/projects-single6258.html?id=21
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\projects-single6258.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p1-0.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p1-0.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/projects-single681a.html?id=1
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\projects-single681a.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p2-0.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p2-0.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/projects-single0b30.html?id=2
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\projects-single0b30.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p3-0.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p3-0.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/projects-singled708.html?id=3
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\projects-singled708.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p4-0.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p4-0.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/projects-singledcfd.html?id=4
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\projects-singledcfd.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p5-0.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p5-0.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/projects-singled61c.html?id=5
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\projects-singled61c.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p6-0.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p6-0.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/projects-single3a9f.html?id=6
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\projects-single3a9f.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p7-0.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p7-0.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/projects-single8803.html?id=7
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\projects-single8803.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p8-0.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p8-0.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/projects-singlec3c9.html?id=8
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\projects-singlec3c9.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p9-0.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p9-0.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/projects-single5255.html?id=9
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\projects-single5255.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p10-0.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p10-0.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/projects-singlef41b.html?id=10
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\projects-singlef41b.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p11-0.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p11-0.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/projects-single0055.html?id=11
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\projects-single0055.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p12-2.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p12-2.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/projects-single4ef9.html?id=12
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\projects-single4ef9.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p13-2.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p13-2.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/projects-single6e03.html?id=13
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\projects-single6e03.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p14-0.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p14-0.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/projects-single87f1.html?id=14
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\projects-single87f1.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p15-0.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p15-0.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/projects-single7429.html?id=15
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\projects-single7429.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p16-0.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p16-0.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/projects-single2728.html?id=16
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\projects-single2728.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p17-0.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p17-0.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/projects-single190a.html?id=17
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\projects-single190a.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p18-0.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p18-0.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/projects-singlee371.html?id=18
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\projects-singlee371.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p19-0.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p19-0.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/projects-singlea9bc.html?id=19
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\projects-singlea9bc.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p20-0.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p20-0.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/projects-singlee5cc.html?id=20
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\projects-singlee5cc.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/images/idl_logo.png
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\idl_logo.png
+Content Type: image/png
+
+Uri: https://diamondoffshoredrillingplc.com/images/boss.jpeg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\boss.jpeg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/icon-image/fact1.png
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\icon-image\fact1.png
+Content Type: image/png
+
+Uri: https://diamondoffshoredrillingplc.com/images/icon-image/fact2.png
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\icon-image\fact2.png
+Content Type: image/png
+
+Uri: https://diamondoffshoredrillingplc.com/images/icon-image/fact3.png
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\icon-image\fact3.png
+Content Type: image/png
+
+Uri: https://diamondoffshoredrillingplc.com/images/icon-image/fact4.png
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\icon-image\fact4.png
+Content Type: image/png
+
+Uri: https://diamondoffshoredrillingplc.com/images/icon-image/rotary-core-icon.png
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\icon-image\rotary-core-icon.png
+Content Type: image/png
+
+Uri: https://diamondoffshoredrillingplc.com/images/icon-image/geology-icon.png
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\icon-image\geology-icon.png
+Content Type: image/png
+
+Uri: https://diamondoffshoredrillingplc.com/images/icon-image/geology-2-icon.png
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\icon-image\geology-2-icon.png
+Content Type: image/png
+
+Uri: https://diamondoffshoredrillingplc.com/images/services/rig_cut.png
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\services\rig_cut.png
+Content Type: image/png
+
+Uri: https://diamondoffshoredrillingplc.com/images/icon-image/excavator-icon.png
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\icon-image\excavator-icon.png
+Content Type: image/png
+
+Uri: https://diamondoffshoredrillingplc.com/images/icon-image/static-cone-icon.png
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\icon-image\static-cone-icon.png
+Content Type: image/png
+
+Uri: https://diamondoffshoredrillingplc.com/images/icon-image/digging-icon.png
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\icon-image\digging-icon.png
+Content Type: image/png
+
+Uri: https://diamondoffshoredrillingplc.com/images/clients/testimonial1.png
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\clients\testimonial1.png
+Content Type: image/png
+
+Uri: https://diamondoffshoredrillingplc.com/images/clients/testimonial2.png
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\clients\testimonial2.png
+Content Type: image/png
+
+Uri: https://diamondoffshoredrillingplc.com/images/clients/testimonial3.png
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\clients\testimonial3.png
+Content Type: image/png
+
+Uri: https://diamondoffshoredrillingplc.com/images/clients/galway_coco.png
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\clients\galway_coco.png
+Content Type: image/png
+
+Uri: https://diamondoffshoredrillingplc.com/images/clients/mayo_coco_2.png
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\clients\mayo_coco_2.png
+Content Type: image/png
+
+Uri: https://diamondoffshoredrillingplc.com/images/news/news_1.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\news\news_1.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/news/news_2.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\news\news_2.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/news/news_3.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\news\news_3.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/idl_logo_footer.png
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\idl_logo_footer.png
+Content Type: image/png
+
+Uri: https://diamondoffshoredrillingplc.com/js/jquery.js
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://diamondoffshoredrillingplc.com/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://diamondoffshoredrillingplc.com/js/owl.carousel.min.js
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://diamondoffshoredrillingplc.com/js/jquery.counterup.min.js
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://diamondoffshoredrillingplc.com/js/waypoints.min.js
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://diamondoffshoredrillingplc.com/js/jquery.colorbox.js
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\js\jquery.colorbox.js
+Content Type: application/javascript
+
+Uri: https://diamondoffshoredrillingplc.com/js/smoothscroll.js
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\js\smoothscroll.js
+Content Type: application/javascript
+
+Uri: https://diamondoffshoredrillingplc.com/js/isotope.js
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\js\isotope.js
+Content Type: application/javascript
+
+Uri: https://diamondoffshoredrillingplc.com/js/ini.isotope.js
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\js\ini.isotope.js
+Content Type: application/javascript
+
+Uri: https://diamondoffshoredrillingplc.com/js/custom.js
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\js\custom.js
+Content Type: application/javascript
+
+Uri: https://diamondoffshoredrillingplc.com/fonts/glyphicons-halflings-regular.eot
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://diamondoffshoredrillingplc.com/fonts/glyphicons-halflings-regulard41d.eot?
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\fonts\glyphicons-halflings-regulard41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://diamondoffshoredrillingplc.com/fonts/glyphicons-halflings-regular.html
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\fonts\glyphicons-halflings-regular.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/fonts/glyphicons-halflings-regular-2.html
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\fonts\glyphicons-halflings-regular-2.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/fonts/glyphicons-halflings-regular.ttf
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\fonts\glyphicons-halflings-regular.bin
+Content Type: application/octet-stream
+
+Uri: https://diamondoffshoredrillingplc.com/fonts/glyphicons-halflings-regular-3.html
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\fonts\glyphicons-halflings-regular-3.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:300,400,400i,500,500i,600,600i,700,700i,800|Open+Sans:400,400i,600,600i,700,700i,800
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\css.css
+Content Type: text/css
+
+Uri: https://diamondoffshoredrillingplc.com/images/preload.html
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\preload.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/images/crossword.png
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\crossword.png
+Content Type: image/png
+
+Uri: https://diamondoffshoredrillingplc.com/images/parallax2.html
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\parallax2.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/fonts/fontawesome-webfont5b62.eot?v=4.6.3
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\fonts\fontawesome-webfont5b62.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://diamondoffshoredrillingplc.com/fonts/fontawesome-webfontd41d.eot?
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\fonts\fontawesome-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://diamondoffshoredrillingplc.com/fonts/fontawesome-webfont5b62.html?v=4.6.3
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\fonts\fontawesome-webfont5b62.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/fonts/fontawesome-webfont5b62-2.html?v=4.6.3
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\fonts\fontawesome-webfont5b62-2.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/fonts/fontawesome-webfont5b62.ttf?v=4.6.3
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\fonts\fontawesome-webfont5b62.bin
+Content Type: application/octet-stream
+
+Uri: https://diamondoffshoredrillingplc.com/fonts/fontawesome-webfont5b62-3.html?v=4.6.3
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\fonts\fontawesome-webfont5b62-3.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/css/owl.video.play.html
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\css\owl.video.play.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/images/loading.html
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\loading.html
+Content Type: text/html
+
+Uri: https://diamondoffshoredrillingplc.com/images/controls.png
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\controls.png
+Content Type: image/png
+
+Uri: https://diamondoffshoredrillingplc.com/images/banner/banner3.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\banner\banner3.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/banner/bannerD.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\banner\bannerD.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/fieldwork/excavator.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\fieldwork\excavator.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/fieldwork/wind-farm-shell-and-auger-drilling.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\fieldwork\wind-farm-shell-and-auger-drilling.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/slider-pages/slide-3.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\slider-pages\slide-3.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p12-0.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p12-0.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/banner/bannerB.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\banner\bannerB.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/slider-pages/slide-4.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\slider-pages\slide-4.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/slider-pages/slide-5.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\slider-pages\slide-5.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/slider-pages/slide-6.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\slider-pages\slide-6.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/slider-pages/slide-2.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\slider-pages\slide-2.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/banner/banner2.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\banner\banner2.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/banner/bannerC.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\banner\bannerC.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/mineral-exploration/mineral-1.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\mineral-exploration\mineral-1.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/mineral-exploration/mineral-2.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\mineral-exploration\mineral-2.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/mineral-exploration/mineral-3.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\mineral-exploration\mineral-3.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/banner/bannerA.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\banner\bannerA.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/gallery/1.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\gallery\1.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/gallery/2.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\gallery\2.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/gallery/3.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\gallery\3.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/services/service1.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\services\service1.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/icon-image/service-icon1.png
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\icon-image\service-icon1.png
+Content Type: image/png
+
+Uri: https://diamondoffshoredrillingplc.com/images/services/service2.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\services\service2.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/icon-image/service-icon2.png
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\icon-image\service-icon2.png
+Content Type: image/png
+
+Uri: https://diamondoffshoredrillingplc.com/images/services/service3.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\services\service3.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/icon-image/service-icon3.png
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\icon-image\service-icon3.png
+Content Type: image/png
+
+Uri: https://diamondoffshoredrillingplc.com/images/services/service4.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\services\service4.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/icon-image/service-icon4.png
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\icon-image\service-icon4.png
+Content Type: image/png
+
+Uri: https://diamondoffshoredrillingplc.com/images/services/service5.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\services\service5.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/icon-image/service-icon5.png
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\icon-image\service-icon5.png
+Content Type: image/png
+
+Uri: https://diamondoffshoredrillingplc.com/images/services/service6.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\services\service6.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/icon-image/service-icon6.png
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\icon-image\service-icon6.png
+Content Type: image/png
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p21-0.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p21-0.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p21-1.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p21-1.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p21-2.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p21-2.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p21-4.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p21-4.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p9-1.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p12-1.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p12-1.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p12-3.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p12-3.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p13-0.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p13-0.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p13-1.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p13-1.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p18-1.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p18-1.jpg
+Content Type: image/jpeg
+
+Uri: https://diamondoffshoredrillingplc.com/images/projects/p18-2.jpg
+File Name: c:\Downloaded Web Sites\diamondoffshoredrillingplc.com\images\projects\p18-2.jpg
+Content Type: image/jpeg
+
